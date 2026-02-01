@@ -64,7 +64,7 @@ This project demonstrates custom interruption handling, intelligent turn detecti
   ELEVEN_API_KEY=your_eleven_key
   GOOGLE_API_KEY=your_gemini_key
   ```
-5. Download and initialize required model files:
+4. Download and initialize required model files:
 ```python
 python multi_model.py download-files
 ```
